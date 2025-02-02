@@ -1,8 +1,11 @@
-NOIR-256
+**NOIR-256**
 
 ---
 
-Inspired by: https://github.com/andreasvc/vim-256noir
+**Inspired by:**
+
+- https://github.com/andreasvc/vim-256noir
+- https://x.com/usgraphics/status/1885857809553875189/photo/1
 
 ---
 
@@ -22,4 +25,4 @@ Screenshots:
 
 ---
 
-PRs and Suggestions are welcome :) 
+PRs and Suggestions are welcome :)
